@@ -1,0 +1,41 @@
+* {
+  font-size: 15px;
+  padding:10px;
+
+
+}
+table {
+    border-spacing: 5px;
+}
+th {background-color: #A9F5F2;
+        color:darkgreen;
+}
+
+
+td  {
+background: grey;
+}
+td:hover  {
+
+background: black;
+}
+
+table:first-child  {
+  padding-right: 10px;
+  padding-left: 10px;
+color:white;
+}
+
+.color-abajo{
+  background-color: lightgrey;
+}
+.color-abajo:hover{
+  background-color: orange;
+}
+
+td:first-child  {
+background: white;
+    color:black;
+    font-style: italic;
+    font-weight: bold;
+}
